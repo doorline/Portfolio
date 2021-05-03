@@ -1,7 +1,7 @@
 # Watching
 Spring MVC 기반의 OTT 동영상 스트리밍 서비스 웹 어플리케이션입니다.
 
-##Description
+## Description
 - 개발기간 : 2021.02.17 ~ 04.15
 - 참여인원 : 3인
 - 사용기술
