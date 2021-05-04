@@ -18,4 +18,4 @@ Spring MVC 기반의 OTT 동영상 스트리밍 서비스 웹 어플리케이션
     + 상품 리스트 검색 및 페이징 기능 구현
     + 상품 상세페이지 구현
 
-- [프로젝트 설명서(PDF)](https://drive.google.com/file/d/1DKLZRY59RNyK7rJ8g9nroPIp3UgyWA8X/view?usp=sharing)
+- [프로젝트 포트폴리오(PDF)](https://drive.google.com/file/d/1DKLZRY59RNyK7rJ8g9nroPIp3UgyWA8X/view?usp=sharing)
